@@ -10,3 +10,5 @@ Dentro da pasta existem 3 Subpastas com os nomes:
 --> (Calculadoras)  
 
 --> (RPG)
+
+Dentro de cada subpasta os proetos livres estarão lá para serem testados.  
