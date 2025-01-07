@@ -11,7 +11,8 @@ Este projeto é um jogo simples de RPG desenvolvido em Python, onde você pode c
 - **Exibição de Personagens**: O usuário pode visualizar todos os personagens criados e suas informações.
 - **Reviver Personagens**: Personagens mortos podem ser revividos automaticamente com a função `reviver()`.
 
-3. **Interação com o App**:
+
+1. **Interação com o App**:
    - O jogo irá apresentar um menu onde você pode:
      1. Criar um novo personagem.
      2. Listar personagens criados.
