@@ -51,15 +51,4 @@ Este projeto é um jogo simples de RPG desenvolvido em Python, onde você pode c
   - **carregar_personagens()**: Função que carrega os personagens salvos de um arquivo JSON.
   - **menu()**: Função principal que gerencia a interação com o usuário, permitindo criar personagens, visualizar, iniciar combates e salvar o progresso.
 
-## Como Contribuir
-
-Sinta-se à vontade para contribuir com este projeto. Caso queira sugerir melhorias ou adicionar novas funcionalidades, siga os seguintes passos:
-
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua modificação (`git checkout -b minha-modificacao`).
-3. Faça suas modificações.
-4. Faça commit das mudanças (`git commit -am 'Adiciona nova funcionalidade'`).
-5. Envie para o repositório remoto (`git push origin minha-modificacao`).
-6. Abra um Pull Request.
-
 
