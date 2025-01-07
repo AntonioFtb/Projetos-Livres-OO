@@ -11,20 +11,6 @@ Este projeto é um jogo simples de RPG desenvolvido em Python, onde você pode c
 - **Exibição de Personagens**: O usuário pode visualizar todos os personagens criados e suas informações.
 - **Reviver Personagens**: Personagens mortos podem ser revividos automaticamente com a função `reviver()`.
 
-## Como Executar
-
-1. **Instalar Python**:
-   - Certifique-se de ter o Python 3 instalado. Caso não tenha, baixe [aqui](https://www.python.org/downloads/).
-   - O projeto utiliza apenas bibliotecas padrão, então nenhuma instalação adicional é necessária.
-
-2. **Executar o código**:
-   - Clone ou baixe este repositório para sua máquina.
-   - Abra o terminal e navegue até o diretório do projeto.
-   - Execute o script:
-     ```bash
-     python rpg.py
-     ```
-
 3. **Interação com o App**:
    - O jogo irá apresentar um menu onde você pode:
      1. Criar um novo personagem.
