@@ -66,7 +66,5 @@ Sinta-se à vontade para contribuir com este projeto, seja corrigindo bugs, suge
 5. Envie para o repositório remoto (`git push origin minha-modificacao`).
 6. Abra um Pull Request.
 
-## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
