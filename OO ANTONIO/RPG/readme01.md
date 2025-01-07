@@ -55,16 +55,6 @@ Este projeto é uma aplicação gráfica em Python, utilizando o módulo `tkinte
 - **Mago**: Realiza ataques mágicos que também utilizam mana, reduzidos pela defesa do oponente.
 - **Arqueiro**: Realiza ataques à distância com arco, baseados no ataque físico, também reduzido pela defesa do oponente.
 
-## Como Contribuir
-
-Sinta-se à vontade para contribuir com este projeto, seja corrigindo bugs, sugerindo melhorias ou adicionando novas funcionalidades. Para isso, basta seguir os seguintes passos:
-
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua modificação (`git checkout -b minha-modificacao`).
-3. Faça suas modificações.
-4. Faça commit das mudanças (`git commit -am 'Adiciona nova funcionalidade'`).
-5. Envie para o repositório remoto (`git push origin minha-modificacao`).
-6. Abra um Pull Request.
 
 
 
