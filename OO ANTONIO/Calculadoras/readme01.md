@@ -40,8 +40,3 @@ Classe base para todas as operações matemáticas. Define o método `calcular`,
 - **`Multiplicacao`**: Implementa a operação de multiplicação.
 - **`Divisao`**: Implementa a operação de divisão, com verificação para evitar divisão por zero.
 
-## Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU-USUARIO/Calculadora-com-Historico.git
