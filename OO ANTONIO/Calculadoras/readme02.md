@@ -11,13 +11,6 @@ Este projeto é uma calculadora de formas geométricas que permite calcular a á
 - **Histórico de Cálculos**: O histórico de todas as operações realizadas é mantido, e pode ser visualizado a qualquer momento.
 - **Salvar e Carregar Histórico**: O histórico pode ser salvo em um arquivo JSON e carregado novamente para a continuidade dos cálculos.
 
-## Como usar
-
-1. **Escolha a forma geométrica**: No menu, selecione o número correspondente à forma que você deseja calcular (Círculo, Quadrado, Retângulo ou Triângulo).
-2. **Informe os dados**: Para cada forma, você será solicitado a inserir as dimensões necessárias (como raio, lado, largura, altura, etc.).
-3. **Veja o resultado**: O programa calculará a área e o perímetro da forma e exibirá o resultado.
-4. **Histórico de Cálculos**: Você pode visualizar todos os cálculos realizados e salvar o histórico em um arquivo JSON.
-5. **Salvar e Carregar**: O histórico pode ser salvo e carregado para garantir que não se perca nenhum dado.
 
 ## Estrutura do Projeto
 
