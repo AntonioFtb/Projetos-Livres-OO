@@ -26,9 +26,3 @@ O projeto contém:
 
 ---
 
-## Como Executar
-
-1. Certifique-se de que o **Python 3.x** está instalado em sua máquina.
-2. Clone este repositório:
-   ```bash
-   git clone https://github.com/AntonioFtb/Projeto.git
