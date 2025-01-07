@@ -13,16 +13,8 @@ Este projeto é uma aplicação gráfica em Python, utilizando o módulo `tkinte
 - **Combate**: Iniciar um combate entre dois personagens.
 - **Armazenamento de Dados**: Todos os dados dos personagens são salvos em um arquivo JSON, permitindo que as informações sejam carregadas automaticamente na próxima execução do programa.
 
-## Como Executar
 
-1. **Instalar dependências**:
-   - Certifique-se de ter o Python 3 instalado. Caso não tenha, baixe [aqui](https://www.python.org/downloads/).
-   - O projeto utiliza a biblioteca `tkinter`, que geralmente vem pré-instalada com o Python. Se necessário, instale usando:
-     ```bash
-     pip install tk
-     ```
-
-2. **Executar o código**:
+1. **Executar o código**:
    - Clone ou baixe este repositório para sua máquina.
    - Abra o terminal e navegue até o diretório do projeto.
    - Execute o script:
@@ -30,7 +22,7 @@ Este projeto é uma aplicação gráfica em Python, utilizando o módulo `tkinte
      python app.py
      ```
 
-3. **Interação com o App**:
+2. **Interação com o App**:
    - Na interface gráfica, você pode adicionar personagens, visualizar detalhes, reviver ou remover personagens, entre outras opções.
 
 ## Estrutura do Código
