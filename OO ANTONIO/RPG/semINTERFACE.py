@@ -1,6 +1,6 @@
 import json
 
-# Classes do RPG (modelo de Personagem, Guerreiro, Mago, Arqueiro)
+
 class Personagem:
     def __init__(self, nome: str, vida: int, mana: int, ataque: int, defesa: int):
         self.__nome = nome
